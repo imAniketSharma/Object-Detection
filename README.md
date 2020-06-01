@@ -26,14 +26,4 @@
     
 ### Note:
 
-The yolo.h5 file can be generated using the YAD2K repository here: https://github.com/allanzelener/YAD2K
-
-Steps how to do it on windows:
-
-* Clone the above repository to your computer
-
-* Download the yolo.weights file from here: http://pjreddie.com/media/files/yolo.weights
-
-* Download the yolo.cfg file form here: https://raw.githubusercontent.com/pjreddie/darknet/master/cfg/yolo.cfg
-
-* Copy the downloaded weights and cfg files to the YAD2K master directory
+The yolo.h5 file can be generated using the YAD2K repository here: https://www.kaggle.com/rmoharir8396/yolo-h5-file/data#
